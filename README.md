@@ -1,4 +1,4 @@
-# Lite-PF-SHR
+# PHRNet
 [PHRNet: Polarimetric Highlight Removal via Hierarchical Frequency-Spatial Co-Attention] <br/>
 Junzhuo Zhou, Ye Qiu, Zhihe Liu, Jun Zou, Jia Hao, Junyi Yang, Wenli Li, Yiting Yu  <br/>
 
